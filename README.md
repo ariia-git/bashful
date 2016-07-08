@@ -1,4 +1,4 @@
 # bashful
 PS1 - Styles
 
-![alt tag](master/1.JPG)
+![alt tag](1.JPG)
